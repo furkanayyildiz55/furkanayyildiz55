@@ -7,9 +7,7 @@ I'm Furkan1, im working on Android application developing. I am sharing my proje
 <p align="center">
 </a>
 <a href="mailto:furkanayyildiz55@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-furkanayyildiz55@hotmail.com-blue?style=flat&logo=gmail"></a>
-
 <a href="https://www.linkedin.com/in/furkanayyıldız/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@furkanayyıldız-blue?style=flat&logo=linkedin"></a>
-
 <a href="https://www.instagram.com/furkan55ss/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-furkan55ss-black?style=flat-square&logo=instagram"></a>
 </p>
 
