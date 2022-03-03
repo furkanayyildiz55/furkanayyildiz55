@@ -1,7 +1,7 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I'm Furkan1, im working on Android application developing. I am sharing my projects in here. I usually using Dart programming language for Android and IOS projects. 
+I'm Furkan, im working on Android application developing. I am sharing my projects in here. I usually using Dart programming language for Android and IOS projects. 
 
 
 <h3 align="center">Connect with me:</h3>
@@ -17,10 +17,8 @@ I'm Furkan1, im working on Android application developing. I am sharing my proje
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanayyildiz55&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanayyildiz55&layout=compact&theme=tokyonight" height="180"> 
 </p>
 
 
-
-
-
+<h2 align="center"><a href="https://github.com/furkanayyildiz55/furkanayyildiz55/blob/main/Furkan_Ayyildiz_Cv.pdf" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4470/4470351.png" alt="c#" width="15" height="15"/>Download My Cv </a></h2>
