@@ -20,5 +20,5 @@ I'm Furkan, im working on Android application developing. I am sharing my projec
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanayyildiz55&layout=compact&theme=tokyonight" height="180"> 
 </p>
- 
-<h2 align="center"><a href="https://github.com/furkanayyildiz55/furkanayyildiz55/blob/main/Furkan_Ayyildiz_Cv.pdf" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4470/4470351.png" alt="c#" width="15" height="15"/>Download My Cv </a></h2>
+
+
