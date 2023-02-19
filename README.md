@@ -2,7 +2,7 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I'm Furkan, im working on Android application developing. I am sharing my projects in here. I usually using Dart programming language for Android and IOS projects. 
+I'm Furkan, im working on Android application developing. I am sharing my projects in here. I usually using Dart programming language for Android and IOS projects... 
 
 
 <h3 align="center">Connect with me:</h3>
